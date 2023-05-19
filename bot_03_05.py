@@ -7,9 +7,9 @@ import sqlite3
 # import json
 import time
 # токен телеграм-бота
-token = '5873420107:AAEl2BK1ojlcwPw9ipOGhfqVBj6IrIyLCiY'
+token = 'TOKEN'
 # токен OpenWeatherApi
-weather_token = '4b2f11bf582a82a29f0772230f12c83a'
+weather_token = 'TOKEN'
 bot = telebot.TeleBot(token)
 # Подключаемся к базе данных
 try:
